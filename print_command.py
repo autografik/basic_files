@@ -1,4 +1,5 @@
-# print_command - shows how the print() function work
+# print_command - first file from laboratory
+# this file shows how the print() function work
 
 print("Hello world!", end=" * ")    # end określa znak na zakończeniu lini
 print("Hello Mars!")
