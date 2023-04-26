@@ -1,4 +1,4 @@
-# My first readme.md file
+# My first README file
 I am the student first year of the Faculty of Applied Computer Science at the Higher School of Economics. 
 Since I'm starting to learn programming and learning to use git and github, I wrote the first version of the README.md file based on the template suggested by [ritaly](https://github.com/ritaly)
 In this branch, I collect files whit basic knowledge from the Python lab. This is what I learn in the class.
