@@ -53,7 +53,7 @@ Provide various use cases and code examples here.
 -->
 
 ## Project Status
-Hole project is steel: _in progress_ ;D
+Whole project is still _in progress_ ;D
 <!-- / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
 
 <!--
