@@ -11,10 +11,10 @@ In this branch, I collect files whit basic knowledge from the Python lab. This i
 * [Setup](#setup)
 * [Usage](#usage) -->
 * [Project Status](#project-status)
-<!-- * [Room for Improvement](#room-for-improvement)
+<!-- * [Room for Improvement](#room-for-improvement) -->
 * [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
-<!-- * [License](#license) -->
+<!-- * [Contact](#contact)
+* [License](#license) -->
 
 
 ## General Information
