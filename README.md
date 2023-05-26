@@ -7,9 +7,9 @@ In this branch, I collect files whit basic knowledge from the Python lab. This i
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 <!-- * [Features](#features)
-* [Screenshots](#screenshots)
+* [Screenshots](#screenshots) -->
 * [Setup](#setup)
-* [Usage](#usage) -->
+* [Usage](#usage) 
 * [Project Status](#project-status)
 <!-- * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
@@ -20,11 +20,13 @@ In this branch, I collect files whit basic knowledge from the Python lab. This i
 ## General Information
 The project I'm posting here focuses on writing a few python's applications. 
 The goal of this project is to learn the basics of the python language.
+First app is pyPong by which one I trying to understanding pygame module action.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- Python v. 3.10
+- Python v3.10
+- pygame v2.4.0
 
 <!--
 ## Features
@@ -36,16 +38,24 @@ List the ready features here:
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. ->
+<!-- If you have screenshots you'd like to share, include them here. -->
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
+Python 3.10 and the pygame module are required to run this project. 
+- https://www.python.org/downloads/
+- https://www.pygame.org/news.html
+<!--
+Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+Proceed to describe how to install / setup one's local environment / get started with the project. -->
+How to install them can be found on each of its websites.
+To run the project, go to the folder where its copy is saved and open it in the command line or terminal.
+Then enter the command: ```sh python3 pyPongGame.py ```
 
 
 ## Usage
+To play, just move the mouse in the game window. The program captures the movement of the mouse pointer over the game window and moves the player's blue paddle. The second red paddle is controlled by the program. The movement of the red paddle has been chosen so that the computer loses the ball from time to time. (This is less frustrating for the player.)
+<!--
 How does one go about using it?
 Provide various use cases and code examples here.
 
