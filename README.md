@@ -13,8 +13,8 @@ In this branch, I collect files whit basic knowledge from the Python lab. This i
 * [Project Status](#project-status)
 <!-- * [Room for Improvement](#room-for-improvement) -->
 * [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
-<!-- * [License](#license) -->
+<!-- * [Contact](#contact)
+* [License](#license) -->
 
 
 ## General Information
@@ -46,9 +46,8 @@ Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where 
 Proceed to describe how to install / setup one's local environment / get started with the project. 
 -->
 
-## Usage
-To play, just move the mouse in the game window. The program captures the movement of the mouse pointer over the game window and moves the player's blue paddle. The second red paddle is controlled by the program. The movement of the red paddle has been chosen so that the computer loses the ball from time to time. (This is less frustrating for the player.)
 <!--
+## Usage
 How does one go about using it?
 Provide various use cases and code examples here.
 
